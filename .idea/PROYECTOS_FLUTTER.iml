@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/animated_container/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/animated_container/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/animated_container/build" />
+      <excludeFolder url="file://$MODULE_DIR$/download_button/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/download_button/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/download_button/build" />
+      <excludeFolder url="file://$MODULE_DIR$/drawer_menu/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/drawer_menu/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/drawer_menu/build" />
+      <excludeFolder url="file://$MODULE_DIR$/expandable_fab/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/expandable_fab/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/expandable_fab/build" />
+      <excludeFolder url="file://$MODULE_DIR$/horario/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/horario/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/horario/build" />
+      <excludeFolder url="file://$MODULE_DIR$/mi_primer_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/mi_primer_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/mi_primer_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/trap_drag/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/trap_drag/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/trap_drag/build" />
+      <excludeFolder url="file://$MODULE_DIR$/mi_chatbot/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/mi_chatbot/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/mi_chatbot/build" />
+      <excludeFolder url="file://$MODULE_DIR$/pc_config/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/pc_config/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/pc_config/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
